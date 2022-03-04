@@ -1,0 +1,20 @@
+*{
+font-size: 1.2em;
+}
+
+
+nav {
+ background-color:#002171;
+}
+ nav a {
+ color:#fff
+ }
+ header {
+ background-color:#002171;
+ }
+ footer p{ 
+  background-color:#002171
+ }
+  footer a {
+  color:#fff;
+}
